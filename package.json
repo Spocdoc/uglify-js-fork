@@ -1,5 +1,5 @@
 {
-    "name": "uglify-js",
+    "name": "uglify-js-fork",
     "description": "JavaScript parser, mangler/compressor and beautifier toolkit",
     "homepage": "http://lisperator.net/uglifyjs",
     "main": "tools/node.js",
@@ -12,7 +12,7 @@
     }],
     "repository": {
         "type": "git",
-        "url": "https://github.com/mishoo/UglifyJS2.git"
+        "url": "https://github.com/mikerobe/UglifyJS2.git"
     },
     "dependencies": {
         "async"      : "~0.2.6",
@@ -20,7 +20,7 @@
         "optimist"   : "~0.3.5"
     },
     "bin": {
-        "uglifyjs" : "bin/uglifyjs"
+        "uglifyjsfork" : "bin/uglifyjs"
     },
     "scripts": {"test": "node test/run-tests.js"}
 }
