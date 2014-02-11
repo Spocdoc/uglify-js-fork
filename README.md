@@ -1,3 +1,12 @@
+# Previous dependencies
+
+    "dependencies": {
+        "async"      : "~0.2.6",
+        "source-map" : "~0.1.7",
+        "optimist"   : "~0.3.5"
+    },
+
+
 UglifyJS 2
 ==========
 [![Build Status](https://travis-ci.org/mishoo/UglifyJS2.png)](https://travis-ci.org/mishoo/UglifyJS2)
