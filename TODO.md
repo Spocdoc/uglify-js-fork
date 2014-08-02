@@ -1,0 +1,1 @@
+ - [ ] merge the changes into the main UglifyJS2 project
